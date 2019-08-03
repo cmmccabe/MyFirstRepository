@@ -1,0 +1,77 @@
+.nav {
+  font-family: Century Gothic, Arial, Helvetica, sans-serif;
+  font-size: 15px;
+  color: #fff;
+  margin-left:auto;
+  margin-right:auto;
+  background-color: lightslategray;
+  height: 50px;
+  width: auto;
+  font-weight: bold;
+  opacity:0.95;
+  outline: 1px solid black;}
+
+.home 
+{ display: inline-block;
+  padding: 15px;
+  width: 150px;
+  text-align: center;
+  background-color: darkgrey;
+  outline: 1px solid black;
+}
+.diet {
+  display: inline-block;
+  margin: 150;
+  padding: 15px;
+  width: 150px;
+  text-align: center;
+  background-color: darkgrey;
+  outline: 1px solid black;
+}
+.habitat {
+  display: inline-block;
+  margin: 150;
+  padding: 15px;
+  width: 150px;
+  text-align: center;
+  background-color: darkgrey;
+  outline: 1px solid black;
+}
+/* target the class of inline-block below */
+.inline-block {
+  display:in-line block;
+  padding: 15px;
+  border-width: 1px;
+}
+/* target the class of .left below */
+.left {
+  height: 500px;
+  float: left;
+  background-color: lightgrey;
+  width: 29%;
+  text-align: center;
+}
+
+/* target the class of .right below */
+.right {
+  height: 500px;
+  float: left;
+  background-color: lightGrey;
+  width: 71%;
+  text-align: center;
+
+}
+.card {
+  display: inline-block;
+  background-color: #C6C6C6;
+  border-radius: 5px;
+  height: 200px;
+  width: 150px;
+  margin: 30px;
+  margin-top: 50px;
+
+}
+.colorContainer {
+  display: inline-block;
+  margin: 15px;
+}
